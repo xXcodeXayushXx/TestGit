@@ -10,7 +10,7 @@ public class Main
         List<Integer> l=Arrays.asList(20,19,10,5,4);
         Collections.sort(l);
         Iterator<Integer> itr= l.iterator();
-
+        // these are ashu changes
         while(itr.hasNext())
         {
             System.out.println(itr.next());
