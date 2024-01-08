@@ -15,6 +15,8 @@ public class Main
         {
             System.out.println(itr.next());
         }
+        int i=0;
+        System.out.println(i);
         
     }
 }
