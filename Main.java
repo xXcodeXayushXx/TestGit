@@ -18,5 +18,7 @@ public class Main
         int i=0;
         System.out.println(i);
         
+        int j=2;
+        System.out.println(j);
     }
 }
